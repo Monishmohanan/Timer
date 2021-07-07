@@ -8,7 +8,7 @@ A countdown timer that can be used for managing time critical projects or activi
 - Stays infront of all the screen in a semi-transparent window
 
 
-<br>
+<br><br>
 ### Main Window
 
 ![image](https://user-images.githubusercontent.com/60011463/124728317-1f80f700-df2d-11eb-9e4f-755d7c11d5c9.png)
