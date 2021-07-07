@@ -5,7 +5,7 @@ A countdown timer that can be used for managing time critical projects or activi
 ### What can this application do?
 - Create a countdown for your time critical activities
 - Can be used for managing time during presentations 
-- Can stay infront of all the screen in a transparent window
+- Stays infront of all the screen in a semi-transparent window
 
 ![image](https://user-images.githubusercontent.com/60011463/124728317-1f80f700-df2d-11eb-9e4f-755d7c11d5c9.png)
 
