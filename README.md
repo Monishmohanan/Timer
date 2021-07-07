@@ -16,4 +16,6 @@ A countdown timer that can be used for managing time critical projects or activi
 ![image](https://user-images.githubusercontent.com/60011463/124729231-e301cb00-df2d-11eb-87f8-966ba91a3e1d.png)
 
 
+![image](https://user-images.githubusercontent.com/60011463/124734675-febba000-df32-11eb-8716-5687929c6dd9.png)
+
 
